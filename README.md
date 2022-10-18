@@ -1,2 +1,2 @@
 # wp-scan
-don't for shell
+don't for sell
