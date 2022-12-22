@@ -215,7 +215,7 @@ if __name__ == '__main__':
 		if "://" in url:
 			url = url
 		else:
-			url = "https://"+url
+			url = "http://"+url
 		if url.endswith('/'):
 			url = url[:-1]
 		jagases = url
